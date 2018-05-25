@@ -1,0 +1,5 @@
+E:\Demo\AutoMapperTest\WoBangMai.Express\obj\Debug\WoBangMai.ExpressionParser.pdb
+E:\Demo\AutoMapperTest\WoBangMai.Express\obj\Debug\WoBangMai.ExpressionParser.csproj.CoreCompileInputs.cache
+E:\Demo\AutoMapperTest\WoBangMai.Express\obj\Debug\WoBangMai.ExpressionParser.dll
+E:\Demo\AutoMapperTest\WoBangMai.Express\bin\Debug\WoBangMai.ExpressionParser.dll
+E:\Demo\AutoMapperTest\WoBangMai.Express\bin\Debug\WoBangMai.ExpressionParser.pdb
